@@ -71,4 +71,4 @@ Ce projet a été créé dans le cadre du TP pour le cours NFP101 - Programmatio
 Vous pouvez cloner ce projet en utilisant la commande suivante :
 
 ```sh
-git clone git
+git clone https://github.com/loicosquare/TPElection_NFP101.git
